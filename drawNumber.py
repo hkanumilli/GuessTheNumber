@@ -1,4 +1,3 @@
-import install_requirements
 import sys, os
 stdout = sys.__stdout__
 stderr = sys.__stderr__
